@@ -12,6 +12,9 @@ Action: Buy, sell or hold.
 Reward function: Realized profit and loss (PnL) is used as the reward function for this case study. The reward depends upon the action:
 
 Sell: Realized profit and loss (sell price - bought price)
+
 Buy: No reward
+
 Hold: No Reward
+
 State: Differences of past stock prices for a given time window is used as the state.
