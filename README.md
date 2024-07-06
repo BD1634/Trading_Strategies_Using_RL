@@ -8,10 +8,10 @@ the formula that model is based on is
 
 here,
 
-Q is the Q-Value.
-R is the Reward
-alpha is the learning rate
-gamma is the discount factor to decrease the reward in latter phases of training.
+Q is the Q-Value.<br>
+R is the Reward <br>
+alpha is the learning rate<br>
+gamma is the discount factor to decrease the reward in latter phases of training.<br>
 
 The Neural Network learns to approximate this Q-value function inturn helps the agent learn what to do.
 
