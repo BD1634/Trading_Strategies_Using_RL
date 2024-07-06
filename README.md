@@ -1,4 +1,4 @@
-This Project is all about basic implementation and exploration of Reinforcement Learning in field of Quantitative Trading.
+This Project is all about basic <b>implementation and exploration of Reinforcement Learning in field of Quantitative Trading.</b>
 
 I have explored Deep Learning + Reinforcement Learning coalition based algorithm -  Deep Q-Learning Neural Network.
 
