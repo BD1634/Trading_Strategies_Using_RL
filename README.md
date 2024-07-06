@@ -2,7 +2,7 @@ This Project is all about basic <b>implementation and exploration of Reinforceme
 
 I have explored Deep Learning + Reinforcement Learning coalition based algorithm -  Deep Q-Learning Neural Network.
 
-the formula that model is based on is
+the reward model that the neural network is based on is
 
 ![image](https://github.com/BD1634/Trading_Strategies_Using_RL/assets/97423675/a1c46455-8550-40e2-b4b0-88f7e7d5b037)
 
